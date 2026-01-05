@@ -1,1 +1,0 @@
-# Physics-Based-Digital-Twin-for-Active-Particle-Motility
